@@ -237,5 +237,5 @@ The system is optimized for **Teltonika FMC920** devices. Below are the critical
 ---
 
 <div align="center">
-  <sub>Developed by Kanokphon Fufon | Last Updated: Jan 2026</sub>
+  <sub>Developed by KNP| Last Updated: Jan 2026</sub>
 </div>
