@@ -41,7 +41,7 @@ The infrastructure consists of several interconnected services running within a 
 
 | **Core Platform (Traccar)** | **Monitoring (Beszel)** |
 | :---: | :---: |
-| ![Traccar](traccar.png) | ![Beszel](beszel.png) |
+| ![Traccar](Traccar.png) | ![Beszel](Beszel.png) |
 | **Manage & Track Devices** | **Server Resource Monitoring** |
 
 | **Database Management (DBeaver)** |
